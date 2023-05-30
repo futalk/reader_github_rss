@@ -3,15 +3,16 @@
     "https://unsafe.sh/rss.xml",
     "https://xz.aliyun.com/feed",
     "https://paper.seebug.org/rss/",
-    "https://www.sec-wiki.com/news/rss",
-    "https://tttang.com/",
-    "https://www.secpulse.com/",
+    "https://tttang.com/rss.xml",
+    "https://www.secpulse.com/feed",
+    "https://rsshub.app/github/issue/zer0yu/picker",
+    "https://www.exploit-db.com/rss.xml",
+    "https://rsshub.app/freebuf/articles/web",
+    "https://rsshub.app/nosec/hole",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
-  "个人博客": [
-	  "https://putdown.top/atom.xml"
-  ],
-  "新闻": [
-    "https://rsshub.app/geekpark/breakingnews"
+  "科技资讯": [
+    "https://rsshub.app/geekpark/breakingnews",
+    "https://rsshub.app/chaping/banner"
   ]
 }
