@@ -9,10 +9,10 @@
     "https://www.exploit-db.com/rss.xml",
     "https://rsshub.app/freebuf/articles/web",
     "https://rsshub.app/nosec/hole",
+    "https://blog.yunjianxx.com/feed/",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
   "科技资讯": [
-    "https://rsshub.app/geekpark/breakingnews",
-    "https://rsshub.app/chaping/banner"
+    "https://rsshub.app/geekpark/breakingnews"
   ]
 }
