@@ -1,9 +1,14 @@
 {
   "网络安全": [
-    "https://unsafe.sh/rss.xml"
+    "https://unsafe.sh/rss.xml",
+    "https://xz.aliyun.com/feed",
+    "https://paper.seebug.org/rss/",
+    "https://www.sec-wiki.com/news/rss",
+    "https://tttang.com/",
+    "https://www.secpulse.com/"
   ],
   "个人博客": [
-	"https://unsafe.sh/rss.xml"
+	  "https://putdown.top/atom.xml"
   ],
   "新闻": [
     "https://rsshub.app/geekpark/breakingnews"
