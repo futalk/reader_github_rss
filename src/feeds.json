@@ -27,10 +27,12 @@
     "https://rsshub.app/geekpark/breakingnews",
     "https://rsshub.app/coolapk/tuwen-xinxian"
   ],
-  "游戏": [
+  "娱乐": [
     "https://rsshub.app/yxdzqb/popular",
-    "https://steamdb.info/api/BlogRSS/",
-    "https://www.yystv.cn/rss/feed"
+    "https://www.yystv.cn/rss/feed/",
+    "https://feedx.net/rss/doubanmvweek.xml",
+    "https://feedx.net/rss/wikihistory.xml",
+    "https://rsshub.app/nmbxd1/1"
   ]
 }
 
