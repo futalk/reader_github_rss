@@ -16,6 +16,9 @@
     "https://www.hedysx.com/feed",
     "https://govuln.com/news/feed/",
     "https://forum.butian.net/Rss",
+    "http://wechat.doonsec.com/rss.xml",
+    "https://govuln.com/news/feed/",
+    "https://www.lijiejie.com/feed/",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
   "网络安全公众号":[
@@ -27,9 +30,11 @@
     "https://rsshub.app/telegram/channel/cvebird/",
     "https://rsshub.app/telegram/channel/CVEhub/",
     "https://rsshub.app/telegram/channel/sec_info",
+    "https://rsshub.app/chaping/news/",
+    "https://rsshub.app/guancha/headline",
     "https://rsshub.app/telegram/channel/GithubRedTeam"
   ],
-  "科技数码": [
+  "资讯": [
     "https://rsshub.app/geekpark/breakingnews",
     "https://rsshub.app/coolapk/tuwen-xinxian",
     "https://rsshub.app/telegram/channel/hostmonit"
