@@ -9,16 +9,16 @@
     "https://www.exploit-db.com/rss.xml",
     "https://rsshub.app/freebuf/articles/web",
     "https://rsshub.app/nosec/hole",
-    "https://blog.yunjianxx.com/feed/",
     "https://www.gem-love.com/atom.xml",
     "https://blog.zgsec.cn/index.php/feed/",
     "https://ad-calcium.github.io/index.xml",
     "https://www.hedysx.com/feed",
     "https://govuln.com/news/feed/",
     "https://forum.butian.net/Rss",
-    "https://www.lijiejie.com/feed/",
+    "https://rsshub.app/hacking8",
     "https://thirdpartyfeed.netlify.app/sec-in.com.xml",
     "https://blog.eclecticiq.com/rss.xml",
+    "https://chybeta.github.io/atom.xml",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
   "网络安全公众号":[
@@ -34,16 +34,17 @@
     "https://rsshub.app/telegram/channel/DARKWEB_EN2",
     "https://rsshub.app/telegram/channel/GithubRedTeam"
   ],
-  "资讯": [
+  "资讯/资讯": [
+    "https://linux.cn/rss-tech.xml",
     "https://rsshub.app/geekpark/breakingnews",
     "https://rsshub.app/coolapk/tuwen-xinxian",
     "https://rsshub.app/chaping/news/",
     "https://rsshub.app/guancha/headline",
-    "https://rsshub.app/telegram/channel/hostmonit"
-  ],
-  "娱乐": [
-    "https://rsshub.app/yxdzqb/popular",
+    "http://feeds.feedburner.com/zhihu-daily",
+    "https://rsshub.app/telegram/channel/hostmonit",
+    "https://www.v2ex.com/feed/tab/tech.xml",
     "https://www.yystv.cn/rss/feed/",
+    "https://www.zhihu.com/rss",
     "https://feedx.net/rss/doubanmvweek.xml",
     "https://feedx.net/rss/wikihistory.xml",
     "https://rsshub.app/nmbxd1/1"
