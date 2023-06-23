@@ -19,22 +19,10 @@
     "https://thirdpartyfeed.netlify.app/sec-in.com.xml",
     "https://blog.eclecticiq.com/rss.xml",
     "https://bestwing.me/atom.xml",
+    "http://wechat.doonsec.com/rss.xml",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
-  "网络安全公众号":[
-    "http://wechat.doonsec.com/rss.xml",
-    "https://wechat2rss.xlab.app/feed/b2fd128a6c259f160f380ffe90c17ce05bdc780f.xml",
-    "https://wechat2rss.xlab.app/feed/6553a5e852536cc41d797391eb3da8d8f8f3f18d.xml",
-    "https://wechat2rss.xlab.app/feed/fda4c8b72435cffdc50c9c6e5eb0041a82eac679.xml"
-  ],
-  "网络安全电报推送":[
-    "https://rsshub.app/telegram/channel/cvebird/",
-    "https://rsshub.app/telegram/channel/CVEhub/",
-    "https://rsshub.app/telegram/channel/sec_info",
-    "https://rsshub.app/telegram/channel/DARKWEB_EN2",
-    "https://rsshub.app/telegram/channel/GithubRedTeam"
-  ],
-  "资讯/资讯": [
+  "娱乐/资讯": [
     "https://linux.cn/rss-tech.xml",
     "https://rsshub.app/geekpark/breakingnews",
     "https://rsshub.app/coolapk/tuwen-xinxian",
