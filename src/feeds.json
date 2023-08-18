@@ -1,5 +1,5 @@
 {
-  "网络安全": [
+  "Cybersecurity": [
     "https://forum.90sec.com/posts.rss",
     "https://unsafe.sh/rss.xml",
     "https://mybeibei.net/feed",
@@ -26,15 +26,14 @@
     "http://wechat.doonsec.com/rss.xml",
     "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
   ],
-  "娱乐/资讯": [
+  "Happy": [
     "https://blog.upx8.com/feed/",
+    "https://iui.su/feed/",
     "https://rsshub.app/hellogithub",
     "https://linux.cn/rss-tech.xml",
     "https://rsshub.app/geekpark/breakingnews",
     "https://rsshub.app/coolapk/tuwen-xinxian",
-    "https://rsshub.app/chaping/news/",
     "https://rsshub.app/guancha/headline",
-    "https://rsshub.app/telegram/channel/hostmonit",
     "https://www.v2ex.com/feed/tab/tech.xml",
     "https://www.yystv.cn/rss/feed/",
     "https://www.zhihu.com/rss",
