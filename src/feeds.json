@@ -17,7 +17,6 @@
     "https://rsshub.app/sec-in",
     "https://security-kitchen.com/atom.xml",
     "https://blog.eclecticiq.com/rss.xml",
-    "https://hdmayi.com/torrentrss.php?passkey=aa21dd1e09cf59ef49961a94d3086bc2&rows=10&cat401=1&cat405=1&sta2=1&sta1=1",
     "https://teamssix.com/atom.xml",
     "https://payloads.online/rss/feed.xml",
     "http://wechat.doonsec.com/rss.xml",
@@ -36,7 +35,8 @@
     "https://www.zhihu.com/rss",
     "https://rsshub.app/telegram/channel/chinarss",
     "https://feedx.net/rss/doubanmvweek.xml",
-    "https://feedx.net/rss/wikihistory.xml"
+    "https://feedx.net/rss/wikihistory.xml",
+    "https://hdmayi.com/torrentrss.php?passkey=aa21dd1e09cf59ef49961a94d3086bc2&rows=10&cat401=1&cat405=1&sta2=1&sta1=1"
   ]
 }
 
