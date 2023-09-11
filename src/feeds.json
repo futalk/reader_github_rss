@@ -6,7 +6,6 @@
     "https://xz.aliyun.com/feed",
     "https://paper.seebug.org/rss/",
     "https://www.secpulse.com/feed",
-    "https://rsshub.app/github/issue/zer0yu/picker",
     "https://www.exploit-db.com/rss.xml",
     "https://rsshub.app/freebuf/articles/web",
     "https://www.gem-love.com/atom.xml",
@@ -17,10 +16,10 @@
     "https://rsshub.app/sec-in",
     "https://security-kitchen.com/atom.xml",
     "https://blog.eclecticiq.com/rss.xml",
+    "https://forum.butian.net/Rss",
     "https://teamssix.com/atom.xml",
     "https://payloads.online/rss/feed.xml",
-    "http://wechat.doonsec.com/rss.xml",
-    "https://github.com/futalk.private.atom?token=AMG2O6DG3Q24XXSS3RK7DMGCQLE44"
+    "http://wechat.doonsec.com/rss.xml"
   ],
   "Happy": [
     "https://blog.upx8.com/feed/",
