@@ -11,7 +11,6 @@
     "https://www.gem-love.com/atom.xml",
     "https://blog.zgsec.cn/index.php/feed/",
     "https://govuln.com/news/feed/",
-    "https://forum.butian.net/Rss",
     "https://rsshub.app/hacking8",
     "https://rsshub.app/github/issue/chainreactors/picker",
     "https://rsshub.app/sec-in",
@@ -20,6 +19,7 @@
     "https://teamssix.com/atom.xml",
     "https://rsshub.app/anquanke/knowledge",
     "https://payloads.online/rss/feed.xml",
+    "https://forum.butian.net/Rss",
     "http://wechat.doonsec.com/rss.xml"
   ],
   "Happy": [
